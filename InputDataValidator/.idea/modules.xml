@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/InputDataValidator.iml" filepath="$PROJECT_DIR$/InputDataValidator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeService.iml" filepath="$PROJECT_DIR$/GradeService.iml" />
     </modules>
   </component>
 </project>
